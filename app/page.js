@@ -58,6 +58,16 @@ export default function Home() {
           >
             Documentation
           </a>
+          {/* --- START OF ELENA WORK --- */}
+<div className="mt-8 p-6 bg-gray-900 text-white rounded-lg border-2 border-emerald-500 shadow-xl">
+  <h2 className="text-2xl font-bold tracking-tight text-emerald-400">Developer Profile</h2>
+  <p className="text-gray-300 mt-2 font-medium">Name: Elena</p>
+  <p className="text-sm text-gray-400">Role: Backend Developer - Team Member 2</p>
+  <div className="mt-4 inline-block bg-emerald-600 text-xs uppercase font-bold px-3 py-1 rounded-full">
+    Sprint 1 - US-103 Active
+  </div>
+</div>
+{/* --- END OF ELENA WORK --- */}
         </div>
         {/* --- START OF OSCAR WORK --- */}
 <div className="mt-8 p-6 bg-gray-900 text-white rounded-lg border-2 border-blue-500 shadow-xl">
