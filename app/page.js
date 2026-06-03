@@ -59,6 +59,26 @@ export default function Home() {
             Documentation
           </a>
         </div>
+{/* --- START OF ABI WORK --- */}
+<div className="mt-8 p-6 bg-gray-900 text-white rounded-lg border-2 border-purple-500 shadow-xl">
+  <h2 className="text-2xl font-bold tracking-tight text-purple-400">Developer Profile</h2>
+  <p className="text-gray-300 mt-2 font-medium">Name: Abi</p>
+  <p className="text-sm text-gray-400">Role: QA Engineer & Developer - Team Member 3</p>
+  <div className="mt-4 inline-block bg-purple-600 text-xs uppercase font-bold px-3 py-1 rounded-full">
+    Sprint 1 - US-104 Active
+  </div>
+</div>
+{/* --- END OF ABI WORK --- */}S
+{/* --- START OF ELENA WORK --- */}
+<div className="mt-8 p-6 bg-gray-900 text-white rounded-lg border-2 border-emerald-500 shadow-xl">
+  <h2 className="text-2xl font-bold tracking-tight text-emerald-400">Developer Profile</h2>
+  <p className="text-gray-300 mt-2 font-medium">Name: Elena</p>
+  <p className="text-sm text-gray-400">Role: Backend Developer - Team Member 2</p>
+  <div className="mt-4 inline-block bg-emerald-600 text-xs uppercase font-bold px-3 py-1 rounded-full">
+    Sprint 1 - US-103 Active
+  </div>
+</div>
+{/* --- END OF ELENA WORK --- */}
         {/* --- START OF OSCAR WORK --- */}
 <div className="mt-8 p-6 bg-gray-900 text-white rounded-lg border-2 border-blue-500 shadow-xl">
   <h2 className="text-2xl font-bold tracking-tight text-blue-400">Developer Profile</h2>
